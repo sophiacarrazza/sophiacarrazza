@@ -18,10 +18,20 @@
   
 </div>
 
+<br>
+<br>
+
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FF610B&center=true&vCenter=true&random=false&width=1200&height=100&lines=Activity+Graph%3A" alt="Typing SVG" /></a>
+</div>
+
+<br>
 <div align="center" >
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sophiacarrazza?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=green) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sophiacarrazza?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&widget_size=large&colors=2e2e2e,F8D690,FC9D48,F66B27) 
 </div>
+
+<br>
 <br>
 <br>
 
@@ -48,21 +58,5 @@
 
 <img align="center"  height="80" width="80" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/328b1223-42dc-4b0c-9d2a-63831005c319">
 
-
-
 </div>
-      
-<!--
-**sophiacarrazza/sophiacarrazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
