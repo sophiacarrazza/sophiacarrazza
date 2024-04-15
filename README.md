@@ -18,7 +18,7 @@
   
 </div>
 
-<br>
+
 <br>
 
 
@@ -30,7 +30,7 @@
 <br>
 <div align="center" >
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sophiacarrazza?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&widget_size=large&colors=2e2e2e,F8D690,FC9D48,F66B27) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sophiacarrazza?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=42&theme=green&widget_size=large&colors=2e2e2e,F8D690,FC9D48,F66B27) 
 </div>
 
 <br>
@@ -45,21 +45,21 @@
 <br>
 
 <div align="center"> 
-<img align="center" height="84" width="84" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/11ad39b1-b80e-419d-9864-356d7533c6e3">
+<img align="center"  height="55" width="55" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/11ad39b1-b80e-419d-9864-356d7533c6e3">
 
-<img align="center" height="80" width="80" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/5718ad6c-e858-4ffe-a882-c1eb817b738f">
+<img align="center"  height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/5718ad6c-e858-4ffe-a882-c1eb817b738f">
 
-<img align="center"  height="80" width="80"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/1d45bf4a-b267-4cb3-b889-7acc2b950579">
+<img align="center"   height="55" width="55"   src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/1d45bf4a-b267-4cb3-b889-7acc2b950579">
 
-<img align="center"  height="80" width="80"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/5ff929ea-bf42-4dce-b55b-fff1ec744666">
+<img align="center"   height="55" width="55"   src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/5ff929ea-bf42-4dce-b55b-fff1ec744666">
 
-<img align="center"  height="80" width="80" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/ca2b269c-e725-46fb-ad20-b055ab12eb95">
+<img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/ca2b269c-e725-46fb-ad20-b055ab12eb95">
 
-<img align="center"  height="80" width="80" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/b1a989b7-b019-4258-9500-758d5b298767">
+<img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/b1a989b7-b019-4258-9500-758d5b298767">
 
-<img align="center"  height="80" width="80" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/f147e866-ece4-4c91-a60f-f0f7ea75c4f3">
+<img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/f147e866-ece4-4c91-a60f-f0f7ea75c4f3">
 
-<img align="center"  height="80" width="80" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/328b1223-42dc-4b0c-9d2a-63831005c319">
+<img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/328b1223-42dc-4b0c-9d2a-63831005c319">
 
 </div>
 
