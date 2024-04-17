@@ -37,7 +37,11 @@
 
 <img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/f147e866-ece4-4c91-a60f-f0f7ea75c4f3">
 
+<img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/fb300742-9f8b-4520-9e91-4388834dd55e">
+
 <img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/328b1223-42dc-4b0c-9d2a-63831005c319">
+
+          
 
 </div>
 
