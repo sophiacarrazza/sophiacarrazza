@@ -25,7 +25,7 @@
 <div align="center"> 
 <img align="center"  height="55" width="55" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/11ad39b1-b80e-419d-9864-356d7533c6e3">
 
-<img align="center"  height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/5718ad6c-e858-4ffe-a882-c1eb817b738f">
+<img align="center"  height="55" width="50"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/fc1fd3ae-de30-4be8-859d-8a29900dc21e">
 
 <img align="center"   height="55" width="55"   src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/1d45bf4a-b267-4cb3-b889-7acc2b950579">
 
