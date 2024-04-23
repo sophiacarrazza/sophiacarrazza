@@ -23,7 +23,7 @@
 
 ##
 <p align="center">
-  <b>👩‍💻 Sobre mim</b>
+  <b>👩‍💻 About me</b>
 </p>
 
 <p align="center">
