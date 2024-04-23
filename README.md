@@ -10,8 +10,17 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sophiacarrazza&theme=shadow-orange&card_width=700" alt="GitHub Streak" /></a>
 </div>
-<br>
-<br>
+
+##
+
+ - 🎓 Computer Science student at PUC Minas in the 3rd period; <br>
+ - 💻 <br>
+ - 🔬 Currently involved in the SOLIRIS research project; <br>
+ - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
+ - 🎨 Love expressing myself through art! <br>
+
+ ##
+ 
 <div align="center">
   <a href="https://instagram.com/draegaez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sophiacarrazza7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
