@@ -38,7 +38,7 @@
    - 🎓 Computer Science student at PUC Minas in the 3rd period; <br>
 </p>
  - 🎓 Computer Science student at PUC Minas in the 3rd period; <br>
- - 💻 <br>
+ - 💻 💼 <br>
  - 🔬 Currently involved in the SOLIRIS research project; <br>
  - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
  - 🎨 Love expressing myself through art! <br>
