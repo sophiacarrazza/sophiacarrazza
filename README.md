@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-- 🎓 Computer Science student at PUC Minas, currently in the 3rd period; <br>
+- 🎓 CS student at PUC Minas, currently in the 3rd period; <br>
 - 💼 Software Developer intern at Group&CO <br>
 - 🔬 Currently involved in the SOLIRIS research project;      <br>
 - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
