@@ -33,7 +33,7 @@
 
 <p align="center">
 - 🎓 CS student at PUC Minas, currently in the 3rd period; <br>
-- 💼 Software Developer intern at Group&CO <br>
+- 💼 Software Developer intern at Group&CO; <br>
 - 🔬 Currently involved in the SOLIRIS research project;      <br>
 - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
 - 🎨 Love expressing myself through art! <br>
