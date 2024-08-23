@@ -3,11 +3,11 @@
 <br>
 <br>
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FF610B&center=true&vCenter=true&random=false&width=1200&height=100&lines=Hello!+My+name+is+Sophia+Carrazza;I'm+a+Computer+Science+Student;and+a+Software+Developer+at+Group" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=cc44aa&center=true&vCenter=true&random=false&width=1200&height=100&lines=Hello!+My+name+is+Sophia+Carrazza;I'm+a+Computer+Science+Student;and+a+Software+Developer+at+Group" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sophiacarrazza&theme=shadow-orange&card_width=700" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sophiacarrazza&theme=radical&card_width=700" alt="GitHub Streak" /></a>
 </div>
 <br>
 <br>
@@ -41,8 +41,6 @@
 
  ##
 
-<br>
-
 <div align="center"> 
   <b>Programming Languages:</b>
   <br>
@@ -65,6 +63,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,vscode,idea,eclipse,docker,postgres,jenkins,figma)](https://skillicons.dev)
 
+ ##
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
+</div>
 
 <!--
 <img align="center"  height="55" width="55" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/11ad39b1-b80e-419d-9864-356d7533c6e3">
@@ -86,7 +89,7 @@
 <img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/328b1223-42dc-4b0c-9d2a-63831005c319">
 -->
           
-
+<!--
 </div>
 
 <br>
@@ -103,5 +106,5 @@
   
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sophiacarrazza?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=42&theme=green&widget_size=large&colors=2e2e2e,F8D690,FC9D48,F66B27) 
 </div>
+-->
 
-<br>
