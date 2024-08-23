@@ -63,7 +63,7 @@
   <b>Tools:</b>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,docker,idea,vscode,eclipse,postgres,jenkins,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,docker,vscode,idea,eclipse,postgres,jenkins,figma)](https://skillicons.dev)
 
 
 <!--
