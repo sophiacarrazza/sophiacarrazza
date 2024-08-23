@@ -1,5 +1,9 @@
 
-<img width=100% bottom=50px src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/9e84d553-5c04-458a-8e10-1a146593b5bc"/>
+<!--<img width=100% bottom=50px src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/9e84d553-5c04-458a-8e10-1a146593b5bc"/>-->
+<div align=center>
+<img width=70% bottom=50px border-radius=5px src="https://github.com/user-attachments/assets/3093cdea-85dd-4e39-a039-3ce8a21b23a7"/>
+  
+</div>
 <br>
 <br>
 <div>
