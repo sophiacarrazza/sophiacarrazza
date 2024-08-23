@@ -55,7 +55,7 @@
 
 <br>
 
-  <b>Libraries and Frameworks:</b>
+  <b>Frameworks:</b>
   <br>
   
 [![My Skills](https://skillicons.dev/icons?i=angular,react,spring)](https://skillicons.dev)
