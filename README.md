@@ -38,23 +38,35 @@
 - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
 - 🎨 Love expressing myself through art! <br>
 </p>
-  <!--
-<p align="center">
-  <b>👩‍💻 Sobre mim</b>  <br>
-   - 🎓 Computer Science student at PUC Minas in the 3rd period; <br>
-</p>
- - 🎓 Computer Science student at PUC Minas in the 3rd period; <br>
- - 💻 💼 <br>
- - 🔬 Currently involved in the SOLIRIS research project; <br>
- - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
- - 🎨 Love expressing myself through art! <br>
--->
 
  ##
 
 <br>
 
 <div align="center"> 
+  <b>Programming Languages:</b>
+  <br>
+  <br>
+  
+  
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,flutter,mysql)](https://skillicons.dev)
+
+<br>
+
+  <b>Libraries and Frameworks:</b>
+  <br>
+  
+[![My Skills](https://skillicons.dev/icons?i=angular,react,spring)](https://skillicons.dev)
+
+<br>
+
+  <b>Tools:</b>
+  <br>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,docker,idea,vscode,eclipse,postgres,jenkins,figma)](https://skillicons.dev)
+
+
+<!--
 <img align="center"  height="55" width="55" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/11ad39b1-b80e-419d-9864-356d7533c6e3">
 
 <img align="center"  height="55" width="50"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/fc1fd3ae-de30-4be8-859d-8a29900dc21e">
@@ -72,7 +84,7 @@
 <img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/fb300742-9f8b-4520-9e91-4388834dd55e">
 
 <img align="center"   height="55" width="55"  src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/328b1223-42dc-4b0c-9d2a-63831005c319">
-
+-->
           
 
 </div>
