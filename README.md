@@ -7,7 +7,7 @@
 <br>
 <br>
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=cc44aa&center=true&vCenter=true&random=false&width=1200&height=100&lines=Hello!+My+name+is+Sophia+Carrazza;I'm+a+Computer+Science+Student;and+a+Software+Developer+at+Group" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=cc44aa&center=true&vCenter=true&random=false&width=1200&height=100&lines=Hello!+My+name+is+Sophia+Carrazza;I'm+a+Computer+Science+Student;and+a+Data+Scientist+at+Sólides" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
@@ -37,7 +37,7 @@
 
 <p align="center">
 - 🎓 CS student at PUC Minas, currently in the 4rth period; <br>
-- 💼 Software developer intern at Group&CO; <br>
+- 💼 Data science intern at Sólides Technology; <br>
 - 🔬 Currently involved in the SOLIRIS research project;      <br>
 - 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
 - 🎨 Love expressing myself through art! <br>
