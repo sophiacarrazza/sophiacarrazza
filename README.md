@@ -46,7 +46,7 @@
  ##
 
 <div align="center"> 
-  <b>Programming Languages:</b>
+  <b>Languages:</b>
   <br>
   <br>
   
