@@ -1,10 +1,9 @@
 
 <!--<img width=100% bottom=50px src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/9e84d553-5c04-458a-8e10-1a146593b5bc"/>-->
 <div align=center>
-<img width=70% bottom=50px border-radius=5px src="https://github.com/user-attachments/assets/20aeb025-32c5-4621-a1c4-a6334608537f"/>
+<img width=80% bottom=50px border-radius=5px src="https://github.com/user-attachments/assets/20aeb025-32c5-4621-a1c4-a6334608537f"/>
   
 </div>
-<br>
 <br>
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=cc44aa&center=true&vCenter=true&random=false&width=1200&height=100&lines=Hello!+My+name+is+Sophia+Carrazza;I'm+a+Computer+Science+Student;and+a+Data+Scientist+at+Sólides" alt="Typing SVG" /></a>
