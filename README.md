@@ -72,6 +72,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
 </div>
 
+<br>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/sophiacarrazza/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 <!--
 <img align="center"  height="55" width="55" src="https://github.com/sophiacarrazza/sophiacarrazza/assets/129913964/11ad39b1-b80e-419d-9864-356d7533c6e3">
 
