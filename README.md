@@ -35,10 +35,10 @@
 </p>
 
 <p align="center">
-- 🎓 CS student at PUC Minas, currently in the 4rth period; <br>
+- 🎓 CS student at PUC Minas, currently in the 5rth period; <br>
 - 💼 Data science intern at Sólides Technology; <br>
 - 🔬 Currently involved in the SOLIRIS research project;      <br>
-- 💡 Focused on perfecting my skills in Java, Python, and SQL; <br>
+- 💡 Focused on perfecting my skills in Python, SQL and Data Science tecnologies; <br>
 - 🎨 Love expressing myself through art! <br>
 </p>
 
