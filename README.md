@@ -64,7 +64,7 @@
   <b>Tools:</b>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,anaconda,vscode,idea,eclipse,docker,postgres,jenkins,figma,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,git,anaconda,vscode,idea,eclipse,docker,postgres,jenkins,latex,azure)](https://skillicons.dev)
 
  ##
 <br>
