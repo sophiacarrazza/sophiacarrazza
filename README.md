@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sophiacarrazza&theme=radical&card_width=700" alt="GitHub Streak" /></a>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sophiacarrazza&theme=dark)](https://git.io/streak-stats)
 </div>
 <br>
 <br>
